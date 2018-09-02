@@ -1,5 +1,13 @@
 body{
-    background-image: url("https://qph.fs.quoracdn.net/main-qimg-276ae6dbf9fad7a84b901cb91de1e672-c");
-    color:white;
+    background-image: url("https://images.pexels.com/photos/268966/pexels-photo-268966.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    color:rgb(107, 132, 214);
     background-image: repeat;
+    font-family: 'Baloo Tammudu', cursive;
+    
+  }
+
+  #size h3{
+      color: white;
+      font-size: 50px;
+     
   }
